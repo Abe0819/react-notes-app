@@ -9,8 +9,8 @@ const App = () => {
   const [notes, setNotes] = useState([
   {
     id: nanoid(),
-    title: 'Note to self',
-    text: 'Dr P',
+    title: 'Default Title',
+    text: 'hi lol bbq',
     date: '11/02/21',
   },
 ]);
