@@ -3,7 +3,7 @@ import { useState } from 'react';
 const AddNote = ({ handleAddNote }) => {
     const [noteTitle, setNoteTitle] = useState('');
     const [noteText, setNoteText] = useState('');
-    const titleLimit = 25;
+    const titleLimit = 20;
     const characterLimit = 200;
 
     const handleChange = (event) => {

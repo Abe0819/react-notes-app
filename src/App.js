@@ -10,7 +10,7 @@ const App = () => {
   {
     id: nanoid(),
     title: 'Default Title',
-    text: 'hi lol bbq',
+    text: 'Title has to be under 20 characters! Also, auto correct messes with the app. If it doesn\'t let you add your note, please rewrite it. ',
     date: '11/02/21',
   },
 ]);
