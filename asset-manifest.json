@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/react-notes-app/static/css/main.a2da539c.css",
-    "main.js": "/react-notes-app/static/js/main.d5eb0e0d.js",
+    "main.js": "/react-notes-app/static/js/main.52e1eb8f.js",
     "static/media/cyber-punk-city.jpeg": "/react-notes-app/static/media/cyber-punk-city.a2053fb37b64dfa6f7bf.jpeg",
     "index.html": "/react-notes-app/index.html",
     "main.a2da539c.css.map": "/react-notes-app/static/css/main.a2da539c.css.map",
-    "main.d5eb0e0d.js.map": "/react-notes-app/static/js/main.d5eb0e0d.js.map"
+    "main.52e1eb8f.js.map": "/react-notes-app/static/js/main.52e1eb8f.js.map"
   },
   "entrypoints": [
     "static/css/main.a2da539c.css",
-    "static/js/main.d5eb0e0d.js"
+    "static/js/main.52e1eb8f.js"
   ]
 }
