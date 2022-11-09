@@ -16,7 +16,8 @@ code {
 }
 
 .darktheme {
-    background-color: #000;
+    background: url(images/cyber-punk-city.jpeg);
+    background-size: contain;
 }
 
 .darktheme h1 {
